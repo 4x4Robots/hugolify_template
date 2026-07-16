@@ -2,7 +2,7 @@
 
 # Hugolify template
 
-Is a Github template for build easily a fast, accessible friendly and low carbon website!
+Is a [Github template](https://github.com/Hugolify/hugolify-template) to build easily a fast, accessible friendly and low carbon website!
 
 ## Live demos
 
@@ -50,3 +50,4 @@ https://www.hugolify.io/docs/
 ## License
 
 Hugolify is free for personal or commercial projects (MIT license)
+
